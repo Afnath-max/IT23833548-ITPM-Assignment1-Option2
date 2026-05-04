@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Assignment brief/source PDFs - not required in the submitted Playwright repository
+Assignment 1 - Option 2 - For students not familiar with Sinhala.pdf
+Automation Steps - Option 2.pdf
